@@ -1,1 +1,2 @@
-this   is  a  newgitHob！
+﻿this   is  a  newgitHob！
+the day is nowall
